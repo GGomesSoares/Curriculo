@@ -1,0 +1,48 @@
+* {
+    background-color: antiquewhite;
+}
+
+.titulo {
+    color: black;
+    font-family: "Roboto", sans-serif;
+    text-align: left;
+    font-size: 20px;
+
+}
+
+h1 {
+    width: 400px;
+    margin-bottom: 0px;
+    margin-left: 100px;
+    margin-top: 0px;
+}
+
+h2 {
+    margin-left: 100px;
+}
+
+p {
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
+
+.container {
+    text-align: left;
+    display: flex;
+    align-items: center;
+    width: 50%;
+    margin: 0 0 0 100px;
+
+}
+
+a {
+    text-decoration: none;
+    color: black;
+}
+
+.unlistedlist {
+    background-color: aqua;
+    margin-left: 100px;
+    font-family: "Roboto", sans-serif;
+    font-size: 20px;
+}
